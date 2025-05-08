@@ -66,12 +66,10 @@ package demo02;
 public class FaceToObjectAdvance01 {
     public static void main(String[] args) {
         //测试工具类
-        /*
         int[] arr = {1,2,3,4,5,6,7,8,9,10};
         String s1 = ArrayUtil.printArr(arr);
         System.out.println("arr: " + s1);
         System.out.println("The average equals " + ArrayUtil.getAverage(arr));
-         */
 
         //测试学生类相关
         /*
